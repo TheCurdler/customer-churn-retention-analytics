@@ -106,6 +106,12 @@ Fiber customers also had higher average monthly charges ($91.50) and a larger pr
 
 Customers without technical support showed a 41.64% churn rate compared with 15.17% among customers with technical support.
 
+## Risk Segmentation Visualization
+
+The model's predicted risk levels show strong separation in observed churn behavior:
+
+![Actual Churn Rate by Predicted Risk Level](risk_level_churn.png)
+
 ## Predictive Risk Segmentation
 
 The model produced the following results on the held-out test set:
